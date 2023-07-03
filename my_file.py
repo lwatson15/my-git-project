@@ -1,2 +1,6 @@
-var1 = 5 
-print(var1) 
+print('Hi Git')
+
+print('Hi from another dev') 
+
+def hi_there():
+    print("hi")
